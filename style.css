@@ -27,6 +27,7 @@ header::after {
   font-family: Quicksand, "sans-serif";
   font-weight: 700;
   float: left;
+  cursor: pointer;
 }
 .logo span {
   font-weight: 400;
@@ -85,6 +86,7 @@ header::after {
   position: absolute;
   right: 0.5em;
   top: 1.5em;
+  cursor: pointer;
 }
 .hamburger,
 .hamburger::before,
